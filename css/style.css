@@ -1,0 +1,18 @@
+/*Navigation Bar*/
+.navbar {
+    display:inline-block;
+    vertical-align: top;
+}
+    .logo {
+        width:23%;
+        padding:1%;
+    }
+    a:link {
+        width:73%;
+        padding:1%;
+    }
+}
+.navbar ul{
+    width: 50%;
+    margin-left: auto;
+}
