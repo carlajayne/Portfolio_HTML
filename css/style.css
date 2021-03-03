@@ -1,18 +1,32 @@
 /*Navigation Bar*/
-.navbar {
-    display:inline-block;
-    vertical-align: top;
-}
-    .logo {
-        width:23%;
-        padding:1%;
+.header {
+    background: #efefef; 
+    clear: both;
+    height: 75px;}
+
+    #logo {
+      display: inline-block;
+      margin:0;
     }
-    a:link {
-        width:73%;
-        padding:1%;
+
+    #navlist {
+      float: right;
     }
-}
-.navbar ul{
-    width: 50%;
-    margin-left: auto;
-}
+    
+    li {
+      display: inline-block;
+      list-style-type: none;
+      padding-right:20px;
+      }
+
+    a:link{
+          line-height: 75px;
+          height: 75px;
+        }
+  
+  
+  
+  
+  
+  
+  
