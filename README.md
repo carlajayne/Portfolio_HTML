@@ -1,72 +1,32 @@
-# Portfolio - HTML 
-Created my portfolio's homepage with just HTML
-
-
 - 👋 Hi, I’m @carlajayne (you can call me Carla)
 - 👀 I’m interested in anything technology!! Designing for websites, creating a mobile applications and seeing how well it is made for potential users! 
 - 🌱 I’m currently learning a whole new world of coding (HTML/CSS/JQuery/Java)...
 - 💞️ I’m looking to collaborate on understanding more into HTML and CSS right now for Web Design, hoping to get more into mobile application coding after!
 - 📫 How to reach me: Email: carlajayne7@outlook.com | Instagram: @cjayne.designs | LinkedIn: https://www.linkedin.com/in/carlajayneramos/
 
-<!---
-carlajayne/carlajayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+# Portfolio - HTML
 
-# Project Title
-
-One Paragraph of project description goes here
+As I learn Coding, I went ahead and created my portfolio's homepage with just HTML. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- Using Figma as to help for design look and inital redlining on which one's to code first.
+- Made use of creating Comments sections to properly organize the codes as needed.
+- ![image](https://user-images.githubusercontent.com/67230580/114283017-83228380-9a15-11eb-8afb-528326b6a64e.png)
+
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Tools Used:
+- Figma
+- VSCode
+- GitHub
+- GitHub Desktop
 
 ## Running the tests
+ - No Tests were conducted.
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
+<!--- ## Deployment
 
 Add additional notes about how to deploy this on a live system
 
