@@ -1,2 +1,2 @@
-# UX_UI_HW_17_2
-Homework 17
+# Portfolio - HTML 
+Created my portfolio's homepage with just HTML
