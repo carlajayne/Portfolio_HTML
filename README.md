@@ -6,7 +6,7 @@
 
 # Portfolio - HTML
 
-As I learn Coding, I went ahead and created my portfolio's homepage with just HTML. 
+First Project for HTML and CSS basics with integration of In-Line Block
 
 ## Getting Started
 
