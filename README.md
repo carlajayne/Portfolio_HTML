@@ -11,6 +11,10 @@ First Project for HTML and CSS basics with integration of In-Line Block
 ## Getting Started
 
 - Using Figma as to help for design look and inital redlining on which one's to code first.
+- ![Footer - Redline](https://user-images.githubusercontent.com/67230580/114317248-271f3400-9ad5-11eb-8a6c-6532225f5f05.png)
+- ![Header - Redline](https://user-images.githubusercontent.com/67230580/114317249-271f3400-9ad5-11eb-818a-37f2458806db.png)
+- ![Body - Redline](https://user-images.githubusercontent.com/67230580/114317251-271f3400-9ad5-11eb-8b4c-08bbb4fbb4a9.png)
+
 - Made use of creating Comments sections to properly organize the codes as needed.
 - ![image](https://user-images.githubusercontent.com/67230580/114283017-83228380-9a15-11eb-8afb-528326b6a64e.png)
 
